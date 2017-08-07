@@ -1,0 +1,6 @@
+.build*
+*.browserify.js.cached
+*.browserify.js.map
+node_modules
+.jshintrc
+.idea
